@@ -7,8 +7,8 @@ To build strong problem solving skills by solving problems consistently and revi
 ## Progress Summary:
 | Difficulty | Solved |
 |----------|--------|
-| Easy | 0 |
-| Medium | 0 |
+| Easy | 1 |
+| Medium | 2 |
 | Hard | 0 |
 | Total | 0 |
 
@@ -62,9 +62,9 @@ Space Complexity:
 | # | Problem                         | Topic   | Difficulty | Status    | Notes               |
 | - | ------------------------------- | ------- | ---------- | --------- | ------------------- |
 | 1 | Two Sum                         | Hashing | Easy       | ✅     | Used hashmap        |
-| 2 | Valid Anagram                   | Strings | Easy       | ✅     | Frequency count     |
-| 3 | Best Time to Buy and Sell Stock | Arrays  | Easy       | ✅     | Track minimum price |
-| 4 | Climbing Stairs                 | DP      | Easy       | 🔁  | Fibonacci pattern   |
+| 2 | Add Two Numbers                 | Lists | Medium     | ✅     | Used Linked Lists     |
+| 3 | Longest Substring Without Repeating Elements | Strings  | Easy       | ✅     | Used Sliding window |
+|  |                  |       |     |   |   |
 
 ### Status legend
 | Symbol | Meaning     |
